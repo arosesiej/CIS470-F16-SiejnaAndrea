@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3379A6F1-06A7-4E7A-A39B-930EB240B143}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Siejna_Final/MailingAddress.cs">
+    <Files>
+      <File FileName="Siejna_Final/Program.cs" Line="239" Column="26" />
+      <File FileName="Siejna_Final/Contact.cs" Line="105" Column="36" />
+      <File FileName="Siejna_Final/MailingAddress.cs" Line="124" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Siejna__Final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

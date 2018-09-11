@@ -1,0 +1,5 @@
+/Users/andrea/Projects/Siejna_Final/Siejna_Final/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/andrea/Projects/Siejna_Final/Siejna_Final/bin/Debug/Siejna_Final.exe.mdb
+/Users/andrea/Projects/Siejna_Final/Siejna_Final/bin/Debug/Siejna_Final.exe
+/Users/andrea/Projects/Siejna_Final/Siejna_Final/obj/x86/Debug/Siejna_Final.exe
+/Users/andrea/Projects/Siejna_Final/Siejna_Final/obj/x86/Debug/Siejna_Final.exe.mdb
